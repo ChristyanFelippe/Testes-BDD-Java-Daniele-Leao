@@ -1,2 +1,9 @@
-# Testes-BDD-Java-Daniele-Leao
-Seguindo o curso https://www.youtube.com/watch?v=be3T6PXJEfk&amp;t=479s&amp;ab_channel=DanieleLe%C3%A3o
+## Passo a passo
+
+1 - Clonar o repositório `git clone https://github.com/danileao/youtube-tdd-java.git`
+
+2 - Rodar `mvn clean install` para instalar as dependências
+
+3 - Rodar `mvn spring-boot:run` para subir a aplicação
+
+4 - A aplicação estará disponível na port `8080`
